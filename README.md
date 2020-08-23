@@ -1,3 +1,25 @@
+Artemis Financial (CS305)
+
+•	Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+Artemis Financial was a new company that wanted to make sure they were up to the security standards for their system. The wanted to make sure that their communications were secure and that there data was encrypted.
+
+•	What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+When coming into this I hadn’t had much experience at all with security and found it completely new. I thought that what I did well was using the URL to test different aspects of vulnerabilities to try. Security for a financial institution is required to operate because you are dealing with such sensitive information. Customers don’t want their credit card numbers getting stolen or seen from an attacker and they depend on the institution to keep it safe. When companies can do this overtime, it builds trust with the customers and employees of the company. That trust happens when everything runs smoothly and allows your business to keep advancing.
+
+•	What about the process of working through the vulnerability assessment did you find challenging or helpful?
+When working through the vulnerability assessment I found it most challenging to know what aspects to look for or where to look for them. Sometimes the given code base was so simple I didn’t know where a vulnerability may be presenting itself. Another aspect of it was not knowing all the software used like Tomcat. 
+
+•	How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+To increase the layers of security I added in self-signed certificates, encrypted strings, and passed the information securely through to the client/server. When adding in these layers of security I had to determine what algorithms to use. By doing research and seeing what the industry standards were I was able to gain further information of how the data is encrypted. In the future when determining vulnerabilities I will be better at knowing where the vulnerability lies and better at finding ways to fix it. Determining the mitigation technique to fix it may require an update, restart, or just writing the code differently. Knowing when it is a false-positive comes over time and more understanding to which I will further my knowledge next term.
+
+•	How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+The make sure the code is functional and secure I did different tests and assessments. I did a dependency check before working with the code to see what was going wrong. Then after I refactored the code, I ran another dependency check. After reviewing this report, I could see if I created any new vulnerabilities and have a better understanding of the vulnerabilities that were found. I would also do code reviews with manual tests with the URL and checking to make sure known vulnerabilities were not coming up. 
+
+•	What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
+Some techniques I tried was testing out different implementations of SHA-256 and it helped me get a better understanding on what I was doing with the string. Getting multiple points of view on a subject can help tremendously since everyone sees things different. 
+
+•	Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+From this I would want them to see my Vulnerability Assessment Report that shows I can take a code base and identify the different aspects of security and how to defend against them. I was able to figure out the clients needs and write a report on what to do and doing some various testing. This would showcase knowledge of security and that I know how to find vulnerabilities in different software. 
 
 DriverPass (CS255)
 
