@@ -38,6 +38,8 @@ To figure out what Liam wanted out of the DriverPass system I had an interview w
 •	How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 Before this system when I had to design software I tried to get out there and see what I could come up with in the code and tweak aspects after creating them, but now I have a total different view. Now I feel its best to workout the use cases and find all the aspects that would need to be included in that. This helped me see in the DriverPass system that if I were to design it that I would just need to focus on a few objects and a database to store them all. The best strategy is taking the use cases and seeing trying to build class diagram. Doing several iterations may be need when you see other ways or methods you can implore. Overall I was grateful for the strategies learned while designing different aspects of the system. 
 
+// ProjectTwo
+This was a reinforcement learning AI agent, pirate, that learned a maze with deep Q-learning. I implemented the qtrain function while getting some other files to assist me. I was able to use a decaying epsilon value to get a 99% win rate with 10000 epochs. Learning about AI has taught me a lot about ethics in AI and ethical bias that might come without the knowledge of the computer scientist or not. It is our responsibility as computer scientists to make sure AI is ethical and does not bias based on race or gender. I was able with this project and course to learn some of keras using python and try a few different simple games with learning AI agents. 
 
 // Project Three Design Document
 
